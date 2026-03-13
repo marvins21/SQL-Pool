@@ -1,0 +1,1 @@
+BULK INSERT dbo.Tabelle1 FROM 'V:\Daten\Projekte\Projekt1\skonto.csv'
