@@ -1,0 +1,6 @@
+SELECT * 
+INTO dbo.tabelle1
+FROM dbo.view1
+
+--Schreibt das Ergebnis eines SELECT in eine statische Tabelle. 
+--Kann auch dafür genutzt werden, um aus einer dynamischen View eine statische Tabelle zu erzeugen 
